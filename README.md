@@ -1,6 +1,6 @@
-# Data Scientist
+# Umair Yousaf
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, Tensorflow, Keras, PyTorch, Python Libraries, Linux, LaTex
 
 ## Education
 - Ph.D., Computer Science | University of Calabria, Italy (_Expected January 2025_)  
