@@ -3,7 +3,7 @@
 #### Technical Skills: Python, Tensorflow, Keras, PyTorch, Python Libraries, Linux, LaTex
 
 ## Education
-- Ph.D., Computer Science | University of Calabria, Italy (_Expected January 2025_)  
+- Ph.D., Computer Science | University of Calabria, Italy (January 2025_)  
   - Focus: Artificial Neural Networks, Graph Neural Networks, and Deep Learning
   - Thesis: *Advanced Deep Learning Techniques for Enhancing Numerical Weather Forecasting Systems*
 
