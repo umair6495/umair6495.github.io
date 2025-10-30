@@ -13,35 +13,35 @@ I am currently extending my PhD work toward developing **hybrid AI frameworks** 
 ---
 
 ## Education
-- **Ph.D., Computer Science | University of Calabria, Italy (_January 2025_)**  
+- Ph.D., Computer Science | University of Calabria, Italy (_January 2025_) 
   - Focus: Artificial Neural Networks, Graph Neural Networks, Deep Learning  
-  - Thesis: *Advanced Deep Learning Techniques for Enhancing Numerical Weather Forecasting Systems*  
+  - Thesis: Advanced Deep Learning Techniques for Enhancing Numerical Weather Forecasting Systems  
   - Developed **WRF-ANN**, an AI-enhanced operational weather forecasting system that integrates the WRF model with neural networks to improve rainfall predictions in Calabria, Italy.  
   - The system is **operational at the CeSMMA Lab** and provides **real-time forecasts** accessible through their **web platform**.
 
-- **M.S., Computer Science | COMSATS University Islamabad, Pakistan (_January 2020_)**  
+- M.S., Computer Science | COMSATS University Islamabad, Pakistan (_January 2020_)**  
   - Focus: Deep Learning, Computer Vision  
   - Thesis: *A Deep Learning-Based Approach for Localization and Recognition of Pakistani Vehicle License Plates*  
   - Final Grade: 3.98 / 4.0 — **Gold Medalist**
 
-- **B.S., Software Engineering | COMSATS Institute of Information Technology, Pakistan (_July 2017_)**  
+- B.S., Software Engineering | COMSATS Institute of Information Technology, Pakistan (_July 2017_) 
   - Focus: Software Engineering, Artificial Intelligence  
   - Final Grade: 3.64 / 4.0  
 
 ---
 
 ## Work Experience
-**Postdoctoral Researcher @ University of Calabria, Italy (_2025–Present_)**  
+Postdoctoral Researcher @ University of Calabria, Italy (_2025–Present_)  
 - Conducting postdoctoral research in AI, deep learning, and predictive modeling.  
 - Extending Graph Neural Network architectures for spatio-temporal datasets.  
 - Supervising MSc and PhD students in AI-related projects and publications.  
 
-**Lecturer @ University of Sialkot, Pakistan (_February 2020 - December 2021_)**  
+Lecturer @ University of Sialkot, Pakistan (_February 2020 - December 2021_) 
 - Designed and delivered undergraduate and postgraduate Computer Science courses.  
 - Evaluated student performance and provided academic mentorship.  
 - Conducted research and contributed to departmental development initiatives.  
 
-**University Research Assistant @ COMSATS University Islamabad, Pakistan (_September 2017 - January 2020_)**  
+University Research Assistant @ COMSATS University Islamabad, Pakistan (_September 2017 - January 2020_)  
 - Conducted literature reviews and data-driven experiments in computer vision and AI.  
 - Performed data analysis and prepared technical reports for funded projects.  
 - Assisted in writing academic papers and presenting research at conferences.  
@@ -50,12 +50,12 @@ I am currently extending my PhD work toward developing **hybrid AI frameworks** 
 
 ## Projects
 ### WRF-ANN: AI-Enhanced Numerical Weather Forecasting System
-**Operational at CeSMMA Lab, University of Calabria**  
+Operational at CeSMMA Lab, University of Calabria  
 Developed an integrated AI framework combining the **WRF model** with **Artificial Neural Networks** to improve precipitation forecasting accuracy.  
 This system is **deployed and operational**, providing **real-time rainfall forecasts** accessible via the CeSMMA web platform.
 
 ### Spatio-temporal Graph Neural Networks to Improve Precipitation Forecasts
-[Accepted in Springer (Soft Computing Journal), 2025]  
+[Published in Springer (Soft Computing Journal), 2025]  
 Developed advanced spatio-temporal GNN models that capture spatial dependencies in meteorological data, significantly improving prediction accuracy in complex terrains.
 
 ### Machine Learning for Weather Forecasting in the Mediterranean
